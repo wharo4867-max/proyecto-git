@@ -1,0 +1,82 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="ZJzMbHZItky-H5pIPSaP">
+    <mxGraphModel dx="2156" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-31" edge="1" parent="1" source="ZNNeM6ZogfThTOXJEWP5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZNNeM6ZogfThTOXJEWP5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="710" x="80" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Capa de Presentacion&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="660" x="110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestion de Adopciones" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Interfaz de Usuario" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestion de Casos" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-33" edge="1" parent="1" source="ZNNeM6ZogfThTOXJEWP5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZNNeM6ZogfThTOXJEWP5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="710" x="75" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Capa de Aplicacion&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="470" x="210" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestor de Notificaciones" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestor de Adopciones" vertex="1">
+          <mxGeometry height="60" width="120" x="375" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestor de Casos" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="710" x="85" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="710" x="85" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Capa de Dominio&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="300" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Capa de Datos&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="340" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Usuario" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CasoRescate" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Animal" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Repositorio de Animales" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Repositorio de Casos" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Base de Datos" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Adopcion" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNNeM6ZogfThTOXJEWP5-34" edge="1" parent="1" source="ZNNeM6ZogfThTOXJEWP5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZNNeM6ZogfThTOXJEWP5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
