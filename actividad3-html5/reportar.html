@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Formulario para registrar animales rescatados">
+    <title>Reportar animal | Sistema de Rescate y Adopción</title>
+</head>
+<body>
+
+    <header>
+        <h1>Reportar animal rescatado</h1>
+        <p>Registro de nuevos casos de rescate animal.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="reportar.html">Reportar animal</a></li>
+            <li><a href="rescates.html">Ver rescates</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Formulario de registro</h2>
+
+            <article>
+                <h3>Información del animal</h3>
+
+                <form action="#" method="post">
+
+                    <p>
+                        <label for="nombre">Nombre provisional del animal:</label>
+                        <input type="text" id="nombre" name="nombre" required>
+                    </p>
+
+                    <p>
+                        <label for="categoria">Categoría:</label>
+                        <select id="categoria" name="categoria" required>
+                            <option value="">Seleccione una categoría</option>
+                            <option value="perros">Perros</option>
+                            <option value="gatos">Gatos</option>
+                            <option value="fauna-silvestre">Fauna silvestre</option>
+                        </select>
+                    </p>
+
+                    <fieldset>
+                        <legend>Nivel de urgencia:</legend>
+
+                        <input type="radio" id="alta" name="urgencia" value="alta" required>
+                        <label for="alta">Alta</label>
+
+                        <input type="radio" id="media" name="urgencia" value="media">
+                        <label for="media">Media</label>
+
+                        <input type="radio" id="baja" name="urgencia" value="baja">
+                        <label for="baja">Baja</label>
+                    </fieldset>
+
+                    <p>
+                        <label for="condicion">Detalles sobre el estado del animal:</label>
+                        <textarea id="condicion" name="condicion" rows="5" required></textarea>
+                    </p>
+
+                    <button type="submit">Registrar animal</button>
+                    <button type="reset">Limpiar formulario</button>
+
+                </form>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Sistema de Control de Rescate y Adopción Animal.</p>
+    </footer>
+
+</body>
+</html>
